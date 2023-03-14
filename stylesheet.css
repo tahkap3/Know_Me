@@ -1,0 +1,142 @@
+#profile{
+    width:200px;
+    border-radius: 50%;
+    border-style:outset;
+    border-color: green;
+    margin-top: 0px;
+    
+}
+
+#tah{
+    margin-top:2px;
+    margin-bottom:15px;
+}
+.left{
+    background-color:rgba(0, 0, 0, 0.025);
+    width: 30%;
+    height:100%;
+    float:left;
+    margin-left:-1px;
+    border-right: 2px solid  rgba(0,0,0,.05);
+    position: fixed;
+    text-align: center;
+    margin-bottom:20%;
+     
+}
+
+body{
+    font-family:Lora, serif;
+    color:#333332;
+}
+
+#whatsapp{
+    border-radius:50%;
+    margin-left:10px;
+}
+
+
+
+
+#google,#whatsapp{
+    width:35px;
+    margin-right:10px;
+}
+
+.right{
+    float:right;
+	height:100%;
+	position:relative;
+	width:66.66%;
+}
+.name-hero
+{
+	background:rgba(0,0,0,.001);
+	bottom:0;
+	height:290px;
+	left:0;
+	margin:auto;
+	position:absolute;
+	right:0;
+	top:0;
+	width:85%;
+}
+
+h1
+{
+	color:rgba(0,0,0,.75);
+    font-size: 45px;
+}
+
+.name-hero h1
+{
+	font-family:Open Sans, sans-serif;
+	font-size:50px;
+	text-align:center;
+}
+
+.name-hero h1 em
+{
+	color:rgba(0,0,0,.3);
+	font-style:normal;
+	font-weight:700;
+}
+
+.name-hero p
+{
+	color:rgba(0,0,0,.75);
+	font: size 50px;
+	line-height:1.5;
+	margin:0 8px 0 0;
+	text-align:center;
+}
+#work_expereince,#education,#personal_details{
+    font-size: 20px;
+}
+
+ul
+{
+	list-style-type:none;
+	margin-top:-10px;
+	max-width:570px;
+	padding:0;
+}
+
+.skill-set li
+{
+	background:rgba(0,0,0,.75);
+	border-radius:5px;
+	color:#FFF;
+	display:inline-block;
+	list-style:none;
+	margin:15px 15px 0 0;
+	padding:10px;
+	text-align:justify;
+}
+
+.skill-set li:hover
+{
+	background:#3498db;
+}
+.colored{
+    font-size: 35px;
+    margin-top: 0;
+    margin-right:15px;
+}
+#in{
+    font-size: 45px;
+}
+
+a:link{
+    color:red;
+     background-color: transparent;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color:#3498db
+}
+
+a:active{
+    color:grey:
+}
